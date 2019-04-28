@@ -1,5 +1,11 @@
 # Image-Viewing-Website
 
+Description
+===========
+
+A simple php website which allows user to upload and view images with respect to user.
+This was done as an Assignment for Database Lab. 
+
 
 Usage 
 =====
